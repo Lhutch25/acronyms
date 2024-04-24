@@ -186,6 +186,7 @@ A better mechanism to enable people without GitHub accounts to suggest changes w
 | CLA | Civil Legal Aid | | |
 | CM | Custodial Manager | | A Band 5 prison officer. 3 stripes on their epaulettes |
 | CMAC | Court Martial Appeals Court | | |
+| CMC | Case Management Conference | | |
 | CMT | Contract Management Team | | |
 | CNA | certified normal accommodation | | Relating to prison capacity: "the good, decent standard of accommodation that the service aspires to provide all prisoners" |
 | CNA  | Certified Normal Accommodation | | The Prison Service's measure of accommodation, CNA represents the good, decent standard of accommodation that the services aspires to provide all prisoners. |
